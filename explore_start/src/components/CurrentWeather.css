@@ -1,0 +1,17 @@
+#currentWeather {
+    font: 16pt georgia, san-serif;
+    text-shadow: 2px 2px hotpink;
+    padding: 20px;
+}
+#zipin {
+    height: 25px;
+    font: 16pt georgia, san-serif;
+    color: hotpink;
+}
+#icon {
+    height: 80px;
+}
+h2, h3 {
+    padding: 0;
+    margin: 0;
+}
